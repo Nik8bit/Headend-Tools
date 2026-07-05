@@ -5,5 +5,7 @@ Tools Created For Digital Headends
 <br>
 A lightweight, efficient tool designed to streamline **Over-The-Air (OTA)** firmware updates for STBs.
 
-# 1)📡 MultiView
+# 2)📡 MultiView
 <img width="500" height="406" alt="image" src="https://github.com/user-attachments/assets/94b2d229-192a-4c39-87e9-63edb82e1184" />
+<br>
+App for monitoring 4 channels over network supporting Recoding feature with customized settings.
