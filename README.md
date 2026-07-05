@@ -14,3 +14,8 @@ App for monitoring 4 channels over network supporting Recoding feature with cust
 <img width="500" height="285" alt="image" src="https://github.com/user-attachments/assets/86b35a11-3b8d-4375-8905-c611e9dd01b5" />
 <br>
 Tool to Reconcile Active VC from Gospell CAS and Ezybill SMS
+
+# 4)📡 Recontool
+<img width="941" height="627" alt="image" src="https://github.com/user-attachments/assets/34e30976-f9aa-4491-a096-e9017b1d12ed" />
+<br>
+Tool to Update Election data in Realtime over Network
